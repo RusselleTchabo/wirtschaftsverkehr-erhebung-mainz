@@ -1,0 +1,11 @@
+WIRTSCHAFTSVERKEHR – ERHEBUNG MAINZ
+
+1. ZIP auf dem iPad entpacken.
+2. Auf github.com ein neues PUBLIC Repository namens wirtschaftsverkehr-erhebung-mainz erstellen.
+3. Die drei Dateien index.html, manifest.webmanifest und sw.js direkt in das Hauptverzeichnis hochladen (nicht den Ordner oder die ZIP).
+4. Commit changes.
+5. Unter Settings > Pages: Deploy from a branch, main, /(root), Save.
+6. Aufrufen: https://russelletchabo.github.io/wirtschaftsverkehr-erhebung-mainz/
+7. Einmal online öffnen, auf den Home-Bildschirm hinzufügen, dann Offline-Test und CSV-Test durchführen.
+
+Die App speichert Daten lokal pro Gerät. Keine Synchronisierung. Kennzeichen nur verkürzt erfassen.
